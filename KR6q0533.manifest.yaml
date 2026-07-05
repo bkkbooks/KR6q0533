@@ -21,9 +21,9 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 1, filename: KR6q0533_001.yaml, hash: 'sha256:d5de9b4fe0cb922ec88e26df67ade3962b2bd8109325a1ba8bc462fd723dc6bd'}
+  - {seq: 1, filename: KR6q0533_001.yaml, hash: 'sha256:4ad744c6437b3543ae5bcf208411df3d480070039de6574bca54ee08a9be0012'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0533_001.markers.yaml, hash: 'sha256:9e606de666fcb5f6c447a649ca4b9b177407af1aad846ceb0288ec5b6b318ed4'}
+  - {seq: 1, role: markers, filename: assets/KR6q0533_001.markers.yaml, hash: 'sha256:ae94478038a31883fa1b59cc060154681e5e7306481a009d7b79a57b7f7d3436'}
 table_of_contents:
 - ref:
     seq: 1
@@ -955,7 +955,4 @@ table_of_contents:
   label: 附懷淨土偈
   type: mulu
   level: 1
-hash: sha256:c32d70f1d36c4511ae52a0215b053417edf5a88a00819e0eecfe9f7c861e8fe8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9c7c8094d7b31176bc2698585a89f4cac9a4c41dbd8400af1225ab00b5ee3280
