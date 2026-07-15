@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0533/v1
 canonical_location: https://kanripo.org/bkk/KR6q0533/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 黃蓮東巖禪師語錄
   identifiers:
@@ -21,9 +21,9 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 1, filename: KR6q0533_001.yaml, hash: 'sha256:4ad744c6437b3543ae5bcf208411df3d480070039de6574bca54ee08a9be0012'}
+  - {seq: 1, filename: KR6q0533_001.yaml, hash: 'sha256:0fd93077c7c7b96b4777c857cc4ec73e20412d9c5b76257405a998ae8446a31f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0533_001.markers.yaml, hash: 'sha256:ae94478038a31883fa1b59cc060154681e5e7306481a009d7b79a57b7f7d3436'}
+  - {seq: 1, role: markers, filename: assets/KR6q0533_001.markers.yaml, hash: 'sha256:9a8a28722c441f8ebe8d5734b285e4c90f49ab30b3e3cff6f7c8d696c59d79ca'}
 table_of_contents:
 - ref:
     seq: 1
@@ -955,4 +955,7 @@ table_of_contents:
   label: 附懷淨土偈
   type: mulu
   level: 1
-hash: sha256:9c7c8094d7b31176bc2698585a89f4cac9a4c41dbd8400af1225ab00b5ee3280
+hash: sha256:6e3991389f030fb0679d7c2f4d5915e0a61a12d925c939a613f341661787a4d8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
